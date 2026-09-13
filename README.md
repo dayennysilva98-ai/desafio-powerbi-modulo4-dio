@@ -13,8 +13,6 @@ Projeto desenvolvido para o módulo **"Processamento de Dados com Power BI e MyS
 * 📑 **[`dados_desafio_company_transformado.xlsx`](dados_desafio_company_transformado.xlsx)**: Arquivo Excel final contendo as tabelas originais e todas as tabelas transformadas prontas para análise.
 * 📜 **[`consultas_power_query.m`](consultas_power_query.m)**: Script contendo todas as fórmulas e etapas M do Power Query.
 * 🗄️ **[`script_bd_company.sql`](script_bd_company.sql)**: Script SQL completo para criação e povoamento do banco de dados `azure_company` (MySQL).
-* 📁 **[`dados_csv/`](dados_csv/)**: Pasta com os arquivos fonte em formato CSV.
-
 ---
 
 ## 🛠️ Etapas e Diretrizes de Transformação dos Dados
